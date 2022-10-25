@@ -10,9 +10,6 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    overflow-x: hidden;/ / уберет горизонтальный скролл
-overflow-y: hidden;/ / уберет вертикальный скролл
-overflow: hidden;/ / уберет горизонтальный и вертикальный скроолы
 }
 .header {
     display: flex;
